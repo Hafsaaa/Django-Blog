@@ -5,8 +5,9 @@ An interesting web project delivering an exhaustive and complete Blog website us
 Serves as great base for developing any website with blog-like features. More features will be progressively added to showcase its capabilities.
 
 Runs through the latest Python and Django versions:
-. Python 3.9.0
-. Django 3.1.2
+
+Python 3.9.0
+Django 3.1.2
 
 # Launch Instruactions
 
