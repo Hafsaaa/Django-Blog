@@ -4,10 +4,14 @@ An interesting web project delivering an exhaustive and complete Blog website us
 
 Serves as great base for developing any website with blog-like features. More features will be progressively added to showcase its capabilities.
 
-Runs through the latest Python and Django versions:
 
-Python 3.9.0
-Django 3.1.2
+# Prerequisites
+
+Requires a Django installation and its associated dependencies. If you do not have them, simply run : 
+pip install Django
+
+Runs through the latest Python (3.9.0) and Django (3.1.2) versions, but confirmed to be backwards compatible with older versions down to Django 1.8.0.
+
 
 # Launch Instruactions
 
