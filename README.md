@@ -1,4 +1,4 @@
-# Django-Blog
+# Description
 
 An interesting web project delivering an exhaustive and complete Blog website using Django for the backend, and Bootstrap for the UI frontend. 
 
@@ -13,7 +13,7 @@ pip install Django
 Runs through the latest Python (3.9.0) and Django (3.1.2) versions, but confirmed to be backwards compatible with older versions down to Django 1.8.0.
 
 
-# Launch Instruactions
+# Launch Instructions
 
 Simply fork and clone the project to your local repository, and start the server using the following command in the project main path:
 python manage.py runserver
